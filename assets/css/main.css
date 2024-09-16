@@ -616,6 +616,14 @@ section,
   .hero p {
     font-size: 20px;
   }
+   .hero .container{
+    position:absolute;
+    margin-top:100%;
+  }
+  .hero .container p{
+    font-weight: bold; 
+    font-size: 18px;
+  }
 }
 
 /*--------------------------------------------------------------
